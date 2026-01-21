@@ -17,11 +17,12 @@ This is a simple browser‑based interactive game where two players take turns t
 
 ## 📂 Project Structure
 
-
+`
 ├── index.html         # Main game HTML
 ├── style.css          # Game styling
 ├── script.js          # JavaScript logic
 └── README.md          # Project documentation
+`
 
 💻 How to Run Locally
 
