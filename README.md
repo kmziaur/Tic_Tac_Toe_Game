@@ -1,14 +1,23 @@
-🧩 Tic Tac Toe Game
-A classic Tic Tac Toe (X‑O) game built with HTML, CSS, and JavaScript. This is a simple browser‑based interactive game where two players take turns to place marks and win by forming a straight line of three of their symbols (vertically, horizontally, or diagonally).
+# 🧩 Tic Tac Toe Game
 
-📌 Features
-✔️ Two‑player gameplay (local)
-✔ Responsive UI board
-✔ Win / Draw detection
-✔ Simple, clean design
-✔ Works in any modern browser
+A classic **Tic Tac Toe (X‑O)** game built with **HTML**, **CSS**, and **JavaScript**.  
+This is a simple browser‑based interactive game where two players take turns to place marks and win by forming a straight line of three of their symbols (vertically, horizontally, or diagonally).
 
-📂 Project Structure
+---
+
+## 📌 Features
+
+- ✔️ Two‑player gameplay (local)  
+- ✔️ Responsive UI board  
+- ✔️ Win / Draw detection  
+- ✔️ Simple, clean design  
+- ✔️ Works in any modern browser  
+
+---
+
+## 📂 Project Structure
+
+
 ├── index.html         # Main game HTML
 ├── style.css          # Game styling
 ├── script.js          # JavaScript logic
