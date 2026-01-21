@@ -24,7 +24,7 @@ This is a simple browser‑based interactive game where two players take turns t
 └── README.md          # Project documentation
 `
 
-#💻 How to Run Locally
+# 💻 How to Run Locally
 
 ### 1.Clone the repository
 `git clone https://github.com/kmziaur/Tic_Tac_Toe_Game.git`
