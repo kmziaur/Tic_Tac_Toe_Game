@@ -5,7 +5,7 @@ This is a simple browser‑based interactive game where two players take turns t
 
 ---
 
-## 📌 Features
+# 📌 Features
 
 - ✔️ Two‑player gameplay (local)  
 - ✔️ Responsive UI board  
@@ -15,7 +15,7 @@ This is a simple browser‑based interactive game where two players take turns t
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 `
 ├── index.html         # Main game HTML
@@ -24,13 +24,13 @@ This is a simple browser‑based interactive game where two players take turns t
 └── README.md          # Project documentation
 `
 
-💻 How to Run Locally
+#💻 How to Run Locally
 
-# 1.Clone the repository
+### 1.Clone the repository
 `git clone https://github.com/kmziaur/Tic_Tac_Toe_Game.git`
-2.Navigate to the project directory
-cd Tic_Tac_Toe_Game
-3.Open in browser
+### 2.Navigate to the project directory
+`cd Tic_Tac_Toe_Game`
+### 3.Open in browser
 Double‑click index.html OR right‑click and open with your favorite browser.
 
 📌 No installations or servers required — just a browser! 🚀
